@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+npm-debug.log*
+.env
+.env.*
+!.env.example
+*.local
+node_modules/
+dist/
+build/
+.vscode/
+.idea/
+.opencode/skills/img2threejs/
+.opencode/.img2threejs/
